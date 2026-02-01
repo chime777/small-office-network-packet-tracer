@@ -20,6 +20,8 @@ The goal of this project was to build a basic small office network and understan
 - Fundamental Packet Tracer and Cisco CLI commands.
 
 ## Screenshot
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/65981feb-3c19-44d4-b745-eb5d2dd6e126" />
-<img width="1919" height="1079" alt="Screenshot 2026-01-30 154551" src="https://github.com/user-attachments/assets/e25fc2ce-a4b3-42d9-8003-8364bbacb3cb" />
+<img width="1919" height="989" alt="Screenshot 2026-01-30 154635" src="https://github.com/user-attachments/assets/7f7397b4-363b-4d1b-9f89-25d23c7ff8db" />
+<img width="1919" height="991" alt="Screenshot 2026-01-30 154551" src="https://github.com/user-attachments/assets/57bc86be-c562-46fd-99aa-4780e563b2f4" />
+
+
 
