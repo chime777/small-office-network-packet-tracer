@@ -13,7 +13,7 @@ The goal of this project was to build a basic small office network and understan
 - Assigned an IP address to the router interface.
 - Tested network connectivity using the ping command from a PC to the router.
 
-## What I learned:
+## Skills demonstrated:
 - How to choose IP addresses within a subnet. 
 - The roles of a switch versus a router. 
 - Basic network topology design.
